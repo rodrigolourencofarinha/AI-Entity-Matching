@@ -47,3 +47,8 @@ You also need an OpenAI API key. Ensure it is set up in your environment variabl
 ```bash
 OPENAI_API_KEY='your-api-key'
 ```
+## Other Resources
+
+Check out other amazing resources:
+- [Dedupe](https://github.com/dedupeio/dedupe)
+- [RecordLinkage](https://recordlinkage.readthedocs.io/en/latest/)
